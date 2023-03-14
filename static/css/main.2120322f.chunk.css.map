@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACE,YACF,CAEA,OACE,4BAA6B,CAC7B,WAAY,CACZ,SACF","file":"main.2120322f.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbutton {\n  background-color: transparent;\n  border: none;\n  padding: 0;\n}\n"]}
